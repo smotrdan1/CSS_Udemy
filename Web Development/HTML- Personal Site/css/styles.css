@@ -1,0 +1,25 @@
+body {
+  background-color: tan;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: white;
+  border-width: 5px;
+  width: 5%;
+}
+
+img {
+  height: 250px
+}
+
+h1 {
+  color: #5B5B5B;
+  font-style: oblique 50deg;
+}
+
+h2 {
+  color: #5B5B5B;
+  font-style: oblique 20deg;
+}
